@@ -1,4 +1,4 @@
-### Hi, I'm Phillip, more commonly known as "Hey, you!".
+### If you've reached this page, you're definitely in the wrong place.
 
 <!--
 **PhillipXT/PhillipXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
