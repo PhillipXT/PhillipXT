@@ -1,18 +1,10 @@
-# PhillipXT Was Here
+# PhillipXT
+## Web Developer and Database Designer
 
-### If you've reached this page, you're definitely in the wrong place.
+Skills:
+* Back-end technologies:  C#, Python, C, Go
+* Front-end development:  HTML, CSS, JavaScript, VueJS, PHP, VBScript
+* Databases:  SQL Server, MySQL, PostgreSQL, MongoDB
+* Cloud platforms:  Azure, AWS
 
-<!--
-**PhillipXT/PhillipXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other skills:  Communication, writing, documentation
