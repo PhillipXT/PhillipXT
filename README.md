@@ -8,6 +8,3 @@ Technical Skills:
 * Cloud platforms:  Azure, AWS
 
 Other skills:  Communication, writing, documentation
-
-## Contributing
-Currently, I don't have much for public projects that can be built on.  I will be adding some in the near future.
